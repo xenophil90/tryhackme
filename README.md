@@ -10,3 +10,4 @@ Each challenge lives in its own folder.
 |---|---|---|
 | [`Order/`](Order/README.md) | "Order" | Recovering a repeating XOR key from a known plaintext prefix, across a two-line ciphertext |
 | [`W1seGuy/`](W1seGuy/README.md) | "W1seGuy" | Recovering a 5-byte repeating XOR key from a known `THM{...}` flag prefix/suffix |
+| [`Cipers-Secret-Message/`](Cipers-Secret-Message/README.md) | "Cipers Secret Message" | Reversing a positional Caesar cipher where each letter's shift equals its index in the full string |
